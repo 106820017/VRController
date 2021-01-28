@@ -2,12 +2,9 @@
 
 可以在Unity中用到的一個光源遙控器
 
-![gif](https://i.imgur.com/5Enz4cj.gif)
-
-![gif](https://i.imgur.com/PNOPgMU.gif)
-
-![gif](https://i.imgur.com/po8jz5E.gif)
-
+![gif](https://github.com/106820017/VRController/blob/master/gif%20(4).gif)
+![gif](https://github.com/106820017/VRController/blob/master/gif%20(5).gif)
+![gif](https://github.com/106820017/VRController/blob/master/gif%20(3).gif)
 ![gif](https://i.imgur.com/lTEbmYT.gif)
 
 移動裝置與Unity連線方法:
