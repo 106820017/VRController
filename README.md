@@ -33,4 +33,4 @@
 
 新增的Service:
 --------------
-- UIServiceProvider: 取得面板UI資訊.
+- UIServiceProvider: 取得面板UI資訊
