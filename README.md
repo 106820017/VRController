@@ -34,3 +34,12 @@
 新增的Service:
 --------------
 - UIServiceProvider: 取得面板UI資訊
+
+引用專案:
+-----
+mrayy / MobileVRController:
+https://github.com/mrayy/MobileVRController
+
+judah4/HSV-Color-Picker-Unity:
+https://github.com/judah4/HSV-Color-Picker-Unity
+
