@@ -2,7 +2,10 @@
 
 可以在Unity中用到的一個光源遙控器
 
-![gif](https://drive.google.com/file/d/1ADtMKy3onpDOf8snDnUtKn9bZkWLM0tO/view?usp=sharing)
+![gif](https://i.imgur.com/5Enz4cj.gif)
+![gif](https://i.imgur.com/PNOPgMU.gif)
+![gif](https://i.imgur.com/po8jz5E.gif)
+![gif](https://i.imgur.com/lTEbmYT.gif)
 
 移動裝置與Unity連線方法:
 ------------------------
@@ -14,7 +17,7 @@
 
 ●按下連接即可連線至伺服器端以控制光源
 
-![image](https://drive.google.com/file/d/16oec2zuuOdSXWkcYxR5JC6WaTtsZi4jo/view?usp=sharing)
+![image](https://i.imgur.com/4sDPvZ1.png)
 
 特點:
 ---------
